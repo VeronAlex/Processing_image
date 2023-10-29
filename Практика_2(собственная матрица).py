@@ -16,7 +16,7 @@ plt.subplot(121)
 plt.title("Original")
 plt.imshow(image[...,::-1])
 plt.subplot(122) 
-plt.title("Changed1")
+plt.title("Changed")
 plt.imshow(dst[...,::-1])
 
 
